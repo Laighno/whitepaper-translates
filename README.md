@@ -1,1 +1,1 @@
-# whitepaper-translates
+# everiToken Whitepaper Translates
